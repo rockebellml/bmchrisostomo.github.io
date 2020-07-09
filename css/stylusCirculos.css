@@ -55,8 +55,8 @@ img {
 }
 
 .container {
-	max-width: 520px;
-	margin: 20px auto;
+	max-width: 250px;
+	margin: 5px auto;
 }
 
 .container::after, .container::before {
