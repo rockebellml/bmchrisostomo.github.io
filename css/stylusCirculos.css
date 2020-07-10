@@ -55,8 +55,9 @@ img {
 }
 
 .container {
-	max-width: 520px;
+	max-width: 250px;
 	margin: 20px auto;
+	align-content: right;
 }
 
 .container::after, .container::before {
