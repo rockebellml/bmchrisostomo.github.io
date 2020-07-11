@@ -1,4 +1,4 @@
-circulo {
+.circulo {
 	width: 30px;
 	height: 30px;
 	border-radius: 50%;
@@ -55,9 +55,8 @@ img {
 }
 
 .container {
-	max-width: 250px;
-	margin: 20px auto;
-	align-content: right;
+	max-width: 69px;
+	margin:  10px auto;
 }
 
 .container::after, .container::before {
@@ -102,4 +101,4 @@ footer {
 
 #origamid:hover::after, #origamid:hover::before {
 	width: 100%;
-} 
+}

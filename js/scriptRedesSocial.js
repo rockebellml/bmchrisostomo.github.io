@@ -19,7 +19,7 @@ function facebook(){
     window.location.href = "https://m.facebook.com/bmchrisostomo"
 }
 function github(){
-    window.location.href = "www.github.com"
+    window.location.href = "https://www.github.com/rockebellml "
 }
 function linkedin(){
     window.location.href = "https://www.linkedin.com/in/bruno-chrisostomo-305b3512b"

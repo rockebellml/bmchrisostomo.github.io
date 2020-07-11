@@ -12,7 +12,7 @@
     transition: all .5s ease-in-out;
 }
 #nav__social-midia ul li:hover{
-    transform: translate(-20px);
+    transform: translateY(-20px);
     box-shadow: rgba(0, 0, 0, .5) 4px 30px 16px 0px;
 }
 #nav__social-midia ul li img{
@@ -23,7 +23,7 @@
     height: 50px;
 }
 #nav__social-midia .icons{
-    max-width: 50%;
+    max-width: 60%;
 }
 #nav__social-midia.facebook{
     background-color: #1877f2;
