@@ -1,0 +1,12 @@
+.container_font{
+    max-width: 500px;
+    margin: 0px auto;
+    align-content: flex-start;
+    font-style: italic;
+}
+
+.container_font::after, .container_font::before{
+    content: '';
+    display: table;
+    clear: both;
+}
